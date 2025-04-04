@@ -1,6 +1,6 @@
 # Faith Wanjiru | Tech Portfolio
 
-This is the personal tech portfolio website of Jane Doe, a passionate developer with expertise in JavaScript, Python, CSS, and GitHub. The portfolio showcases her skills, projects, and provides a way to get in touch.
+This is the personal tech portfolio website of Faith Wanjiru, a passionate developer with expertise in JavaScript, Python, CSS, and GitHub. The portfolio showcases her skills, projects, and provides a way to get in touch.
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@ This is the personal tech portfolio website of Jane Doe, a passionate developer 
 
 ## Overview
 
-This portfolio website is designed to provide a clear and engaging overview of Jane Doe's technical abilities and projects. It includes the following sections:
+This portfolio website is designed to provide a clear and engaging overview of my technical abilities and projects. It includes the following sections:
 
 * **Header:** Introduces a name and a brief description, along with a navigation menu to easily jump to different sections.
 * **About:** Provides a brief personal introduction and highlights the passion for technology and her areas of expertise.
